@@ -8,6 +8,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Net.Sockets;
+using System.Net;
+using System.Threading;
 
 namespace Servidor
 {
@@ -15,9 +18,23 @@ namespace Servidor
     public partial class Servidor : Form
     {
         DataTable dt = new DataTable();
+        ServidorC server = new ServidorC();
+
         public Servidor()
         {
             InitializeComponent();
+            server.nuevoServer();
+            
+        }
+
+        public void User(Socket client)
+        {
+            while (true)
+            {
+                byte[] msg = new byte[1024];
+                int size = client.Receive(msg);
+                client.Send(msg, 0, size, SocketFlags.None);
+            }
         }
 
         private void leerTXT(string directorio)
@@ -112,5 +129,6 @@ namespace Servidor
             
             
         }
+    
     }
 }
