@@ -34,3 +34,21 @@ C:\Users\Andoni\source\repos\ExamenTeorico\Servidor\obj\Debug\net5.0-windows\Ser
 C:\Users\Andoni\source\repos\ExamenTeorico\Servidor\obj\Debug\net5.0-windows\ref\Servidor.dll
 C:\Users\Andoni\source\repos\ExamenTeorico\Servidor\obj\Debug\net5.0-windows\Servidor.pdb
 C:\Users\Andoni\source\repos\ExamenTeorico\Servidor\obj\Debug\net5.0-windows\Servidor.genruntimeconfig.cache
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\bin\Debug\net5.0-windows\Servidor.exe
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\bin\Debug\net5.0-windows\Servidor.deps.json
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\bin\Debug\net5.0-windows\Servidor.runtimeconfig.json
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\bin\Debug\net5.0-windows\Servidor.runtimeconfig.dev.json
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\bin\Debug\net5.0-windows\Servidor.dll
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\bin\Debug\net5.0-windows\ref\Servidor.dll
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\bin\Debug\net5.0-windows\Servidor.pdb
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\obj\Debug\net5.0-windows\Servidor.csproj.AssemblyReference.cache
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\obj\Debug\net5.0-windows\Servidor.Servidor.resources
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\obj\Debug\net5.0-windows\Servidor.csproj.GenerateResource.cache
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\obj\Debug\net5.0-windows\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\obj\Debug\net5.0-windows\Servidor.AssemblyInfoInputs.cache
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\obj\Debug\net5.0-windows\Servidor.AssemblyInfo.cs
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\obj\Debug\net5.0-windows\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\obj\Debug\net5.0-windows\Servidor.dll
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\obj\Debug\net5.0-windows\ref\Servidor.dll
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\obj\Debug\net5.0-windows\Servidor.pdb
+C:\Users\Aron Aguilar\Desktop\Tareas\ExamenPractico\Servidor\obj\Debug\net5.0-windows\Servidor.genruntimeconfig.cache
