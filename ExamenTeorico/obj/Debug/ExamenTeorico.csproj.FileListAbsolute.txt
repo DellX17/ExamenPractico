@@ -1,0 +1,22 @@
+C:\Users\Andoni\source\repos\ExamenTeorico\ExamenTeorico\bin\Debug\ExamenTeorico.exe.config
+C:\Users\Andoni\source\repos\ExamenTeorico\ExamenTeorico\bin\Debug\ExamenTeorico.exe
+C:\Users\Andoni\source\repos\ExamenTeorico\ExamenTeorico\bin\Debug\ExamenTeorico.pdb
+C:\Users\Andoni\source\repos\ExamenTeorico\ExamenTeorico\obj\Debug\ExamenTeorico.csproj.AssemblyReference.cache
+C:\Users\Andoni\source\repos\ExamenTeorico\ExamenTeorico\obj\Debug\ExamenTeorico.Form1.resources
+C:\Users\Andoni\source\repos\ExamenTeorico\ExamenTeorico\obj\Debug\ExamenTeorico.Properties.Resources.resources
+C:\Users\Andoni\source\repos\ExamenTeorico\ExamenTeorico\obj\Debug\ExamenTeorico.csproj.GenerateResource.cache
+C:\Users\Andoni\source\repos\ExamenTeorico\ExamenTeorico\obj\Debug\ExamenTeorico.csproj.CoreCompileInputs.cache
+C:\Users\Andoni\source\repos\ExamenTeorico\ExamenTeorico\obj\Debug\ExamenTeorico.exe
+C:\Users\Andoni\source\repos\ExamenTeorico\ExamenTeorico\obj\Debug\ExamenTeorico.pdb
+C:\Users\Aron Aguilar\Source\Repos\ExamenTeorico\ExamenTeorico\bin\Debug\ExamenTeorico.exe.config
+C:\Users\Aron Aguilar\Source\Repos\ExamenTeorico\ExamenTeorico\bin\Debug\ExamenTeorico.exe
+C:\Users\Aron Aguilar\Source\Repos\ExamenTeorico\ExamenTeorico\bin\Debug\ExamenTeorico.pdb
+C:\Users\Aron Aguilar\Source\Repos\ExamenTeorico\ExamenTeorico\obj\Debug\ExamenTeorico.csproj.AssemblyReference.cache
+C:\Users\Aron Aguilar\Source\Repos\ExamenTeorico\ExamenTeorico\obj\Debug\ExamenTeorico.Form1.resources
+C:\Users\Aron Aguilar\Source\Repos\ExamenTeorico\ExamenTeorico\obj\Debug\ExamenTeorico.Properties.Resources.resources
+C:\Users\Aron Aguilar\Source\Repos\ExamenTeorico\ExamenTeorico\obj\Debug\ExamenTeorico.csproj.GenerateResource.cache
+C:\Users\Aron Aguilar\Source\Repos\ExamenTeorico\ExamenTeorico\obj\Debug\ExamenTeorico.csproj.CoreCompileInputs.cache
+C:\Users\Aron Aguilar\Source\Repos\ExamenTeorico\ExamenTeorico\obj\Debug\ExamenTeorico.exe
+C:\Users\Aron Aguilar\Source\Repos\ExamenTeorico\ExamenTeorico\obj\Debug\ExamenTeorico.pdb
+C:\Users\Andoni\source\repos\ExamenTeorico\ExamenTeorico\obj\Debug\ExamenTeorico.Datos.resources
+C:\Users\Andoni\source\repos\ExamenTeorico\ExamenTeorico\obj\Debug\ExamenTeorico.Consulta.resources
